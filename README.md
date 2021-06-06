@@ -1,4 +1,4 @@
-### Hi there 👋 I am Diego Sanchez!
+### Hi there 👋 I'm Diego Sanchez!
 
 <!--
 **diego6662/diego6662** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 ### About Me
 - I'm a computer science student at a universidad del valle in Colombia.
-- I’m currently learning about ML-Engineering, Devops and MLops.
+- I'm currently learning about ML-Engineering, Devops and MLops.
