@@ -14,6 +14,15 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### About Me
-- I'm a computer science student at a universidad del valle in Colombia.
-- I'm currently learning about ML-Engineering, Devops and MLops.
+Software engineer - Data engineer
+
+**Worwing on/Interested in:**
+- 👷 Data pipelines
+- 👷 Productionizing Machine Learning Models
+- 📖 MLOps
+- 📖 Data-intensive Application
+- 📖 Functional Programming
+- 💻 Robust Python
+
+### Get in touch
+- [Linkedin](https://www.linkedin.com/in/diego-sanchez-7161821a6/)
