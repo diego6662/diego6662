@@ -22,7 +22,6 @@ Software engineer - Data engineer
 - 📖 MLOps
 - 📖 Data-intensive Application
 - 📖 Functional Programming
-- 💻 Robust Python
 
 ### Get in touch
 - [Linkedin](https://www.linkedin.com/in/diego-sanchez-7161821a6/)
